@@ -9,8 +9,8 @@ if classes == "1":
 if classes == "2":
     class1 = input('GPA of First Class: ')
     class2 = input('GPA of Second Class Class: ')
-    total_3 = float(class1) + float(class2) + float(class3)
-    total_d3 = float(total_3) / 3.0
+    total_2 = float(class1) + float(class2)
+    total_d2 = float(total_2) / 3.0
     print ('Unweighted GPA:' + str(total_d2))
 
 if classes == "3":
